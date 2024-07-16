@@ -1,0 +1,35 @@
+#main{
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.prep{
+    margin: 3%;
+}
+.img{
+    width: 100%;
+}
+.prep_para{
+    padding-left: 1%;
+    margin-top: 3%;
+    font-size: 18px;
+    color: black;
+}
+@media (min-width: 846px) and (max-width: 1251px) {
+    #main{
+        margin-top: 15%;
+        margin-bottom: 5%;
+    }}
+@media (min-width: 629px) and (max-width: 845px) {
+    #main{
+        margin-top: 27%;
+        margin-bottom: 5%;
+    }
+   
+}
+@media (max-width: 628px) {
+    #main{
+        margin-top: 32%;
+        margin-bottom: 5%;
+    }
+   
+}
